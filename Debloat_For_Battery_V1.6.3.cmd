@@ -50,7 +50,6 @@ pm uninstall --user 0 com.sec.android.app.chromecustomizations
 pm uninstall --user 0 com.sec.bcservice
 pm uninstall --user 0 com.sec.enterprise.knox.attestation
 pm uninstall --user 0 com.sec.epdg
-pm uninstall --user 0 com.wssyncmldm
 pm uninstall --user 0 com.samsung.android.app.omcagent
 pm uninstall --user 0 com.samsung.android.providers.carrier
 pm uninstall --user 0 com.samsung.android.sdm.config
@@ -145,7 +144,6 @@ pm uninstall --user 0 com.samsung.android.smartmirroring
 pm uninstall --user 0 com.samsung.android.smartface
 pm uninstall --user 0 com.samsung.android.beaconmanager
 pm uninstall --user 0 com.sec.android.soagent
-pm uninstall --user 0 com.sec.android.app.soundalive
 pm uninstall --user 0 com.samsung.android.stickercenter
 pm uninstall --user 0 com.samsung.android.svcagent
 pm uninstall --user 0 com.samsung.android.tadownloader
