@@ -145,7 +145,6 @@ pm uninstall --user 0 com.samsung.android.smartmirroring
 pm uninstall --user 0 com.samsung.android.smartface
 pm uninstall --user 0 com.samsung.android.beaconmanager
 pm uninstall --user 0 com.sec.android.soagent
-pm uninstall --user 0 com.sec.android.app.soundalive
 pm uninstall --user 0 com.samsung.android.stickercenter
 pm uninstall --user 0 com.samsung.android.svcagent
 pm uninstall --user 0 com.samsung.android.tadownloader
